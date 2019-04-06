@@ -9,7 +9,7 @@ import (
 )
 
 import (
-	l4g "github.com/AlexStocks/log4go"
+	l4g "github.com/dubbogo/log4go"
 )
 
 const (

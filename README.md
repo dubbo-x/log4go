@@ -5,12 +5,12 @@ package (github.com/AlexStocks/goext/log) wrappered log4go functions further
 more.
 
 Installation:
-- Run `go get -u -v github.com/AlexStocks/log4go`
+- Run `go get -u -v github.com/dubbogo/log4go`
 
 Usage:
 - Add the following import:
 
-import l4g "github.com/AlexStocks/log4go"
+import l4g "github.com/dubbogo/log4go"
 
 Feature list:
 
